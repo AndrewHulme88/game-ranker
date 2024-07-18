@@ -10,8 +10,26 @@ const PreferenceGame = () => {
   // Possible categories and corresponding data
   const datasets = {
     movies: [
-      "The Shawshank Redemption", "The Godfather", "The Dark Knight",
-    // Add more movie names
+      "The Shawshank Redemption",
+      "The Godfather",
+      "The Dark Knight",
+      "12 Angry Men",
+      "Schindler's List",
+      "The Lord of the Rings: The Return of the King",
+      "Pulp Fiction",
+      "The Good, the Bad and the Ugly",
+      "Forrest Gump",
+      "Inception",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "Fight Club",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "Inception",
+      "The Matrix",
+      "Interstellar",
+      "Forrest Gump",
+      "Seven Samurai",
+      "City of God",
+      "Spirited Away"
     ],
     videoGames: [
       // Add more video game names
